@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.signup-page{
+    position: relative;
+    background-color: gold;
+    width: 345px;
+    max-height: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    top:0px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+} 
+
+
+.signup{
+    position: relative;
+    background-color: rgb(235, 239, 142);
+    width: 345px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    top: 50px;
+    border-radius: 3px;
+}
+h1{
+    position: relative;
+    left: 120px;
+    top: 8px;
+    color: grey;
+}
+input{
+    position: relative;
+    padding: 0;
+    width: 150px;
+    margin-block: 8px;
+    left: 15px;
+}
+button{
+    position: relative;
+    padding: 2px;
+    width: 100px;
+    left: 130px;
+    top: 10px;
+    border-style: none;
+    font-family: 'Trebuchet MS', Lucida Sans Unicode, 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 200;
+    font-size: larger;
+}
+button:hover{
+   background-color: gold;
+   color: rgb(77, 71, 71);
+   transition: 2s;
+}
