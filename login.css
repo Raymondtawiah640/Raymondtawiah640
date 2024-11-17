@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.login-page{
+    position: relative;
+    background-color: gray;
+    padding: 10px 10px 10px 10px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    top: 100px;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+
+}
+.login-group{
+    position: relative;
+    margin-left: 60px;
+}
+h1{
+    position: relative;
+    left: 45px;
+    color: white;
+    font-family: Georgia, Times New Roman, Times, serif;
+    bottom: -5px;
+}
+button{
+    position: relative;
+    left: 40px;
+    padding: 10px;
+    width: 100px;
+    top: 15px;
+    font-size: larger;
+    background-color:  none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-style: none;
+    border-radius: 6%;
+}
+input{
+    position: relative;
+    padding: 4pt;
+    margin-block: 8px;
+    border-radius: 2px;
+    font-weight: 100;
+    font-size: larger;
+    width: 250px;
+    height: 20px;
+    font-style: normal;
+    right: 40px;
+}
